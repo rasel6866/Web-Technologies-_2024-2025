@@ -1,0 +1,70 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="userreg.css">
+</head>    
+<body>
+    <center>
+    <h2>User Registration Form</h2>
+    
+    <b>
+    <form name="userform" action="dashboard.php" method="post" onsubmit="return Validation()">
+    
+    <label for="fname">First Name:</label>
+    <input type="text" id="fname" name="fname" class="fname">
+    <span id="ferror" class="error" style="color:red"></span><br><br>
+
+    <label for="lname">Last Name:</label>
+    <input type="text" id="lname" name="lname" class="fname">
+    <span id="lerror" class="error" style="color:red"></span><br><br>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email">
+    <span id="mailError" class="error" style="color:red"></span><br><br>
+
+    <label for="pwd">Password:</label>
+    <input type="password" id="pwd" name="pwd">
+    <span id="passError" class="error" style="color:red"></span><br><br>
+
+    <p>Please select your gender:</p>
+    <input type="radio" id="male" name="gender" value="Male">
+    <label for="male">Male</label>
+    <input type="radio" id="female" name="gender" value="Female">
+    <label for="female">Female</label>
+    <input type="radio" id="other" name="gender" value="Other">
+    <label for="other">Other</label>
+    <span id="genderError" class="error" style="color:red"></span><br><br>
+
+    <label for="dob">Date of Birth:</label>
+    <input type="date" id="dob" name="dob"><br><br>
+
+    <label for="phone">Enter your phone number:</label>
+    <input type="tel" id="phone" name="phone" placeholder="01234567890">
+    <span id="phoneError" class="error" style="color:red"></span><br><br>
+
+    <label for="nid">National ID:</label>
+    <input type="text" id="nid" name="nid">
+    <span id="nidError" class="error" style="color:red"></span><br><br>
+
+    <label for="blood">Choose your blood group:</label>
+    <select name="blood" id="blood">
+        <option value="">Select Blood Group</option>
+        <option value="A+ve">A+ve</option>
+        <option value="A-ve">A-ve</option>
+        <option value="B+ve">B+ve</option>
+        <option value="B-ve">B-ve</option>
+        <option value="AB+ve">AB+ve</option>
+        <option value="AB-ve">AB-ve</option>
+        <option value="O+ve">O+ve</option>
+        <option value="O-ve">O-ve</option>
+    </select>
+    <span id="bloodError" class="error" style="color:red"></span><br><br>
+
+    <input type="submit" value="Register" class="btn submit">
+    <input type="reset" value="Reset" class="btn reset">
+
+</form>
+</b>
+</center>
+<script src="script.js"></script>
+</body>
+</html>

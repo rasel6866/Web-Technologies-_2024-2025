@@ -46,10 +46,7 @@ The Blood Bank Management System is a web-based platform designed to streamline 
 <h2 align="left">🤝 Contributors</h2>
 
 <table align="center">
-   <tr>
-      <td align="center" width="200"><img src="https://avatars.githubusercontent.com/u/169520102?v=4" width="auto" height="auto"/></td>
-      <td align="center" width="200"><img src="https://avatars.githubusercontent.com/u/171735722?v=4" width="auto" height="auto"/></td>
-   </tr>
+   
    <tr>
       <td align="center" width="200"><a href="https://github.com/rasel6866" target="_blank">S.M. Rasel </a></td>
       <td align="center" width="200"><a href="https://github.com/Abrar48" target="_blank"> Abrar Rafid Shariar</a></td>

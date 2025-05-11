@@ -48,7 +48,7 @@ The Blood Bank Management System is a web-based platform designed to streamline 
 
 <table align="center">
    <tr>
-      <td align="center" width="200"><img src="https://www.facebook.com/photo?fbid=2157479348016833&set=a.128550967576358" width="auto" height="auto"/></td>
+      <td align="center" width="200"><img src="https://www.facebook.com/photo?fbid=2157479348016833&set=a.128550967576358" width="1280" /></td>
       <td align="center" width="200"><img src="https://www.facebook.com/photo/?fbid=1286799059179001&set=a.102104614315124" width="auto" height="auto"/></td>
    </tr>
    <tr>

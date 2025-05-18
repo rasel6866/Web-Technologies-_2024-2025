@@ -11,7 +11,7 @@
     <b>
     <form action="dashboard.php" method="post">
     
-        <label style="text align:bottom" for="fname">First Name:</label>
+        <label for="fname">First Name:</label>
         <input  type="text" id="fname" name="fname" class="fname"> <br><br>
         
         <label for="lname">Last Name:</label>

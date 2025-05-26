@@ -1,0 +1,100 @@
+/*element selector*/
+h2{
+  position: static;
+  left: 100px;
+  top: 150px;
+    color: red;
+}
+/*class selector*/
+.btn{
+    border: grey;
+    border-radius: 5px;
+    width: 120px;
+    height: 60px;
+}
+.submit{
+    color: grey;
+    background-color: greenyellow;
+}
+p.reset{
+
+}
+/*universal selector*/
+*{
+        text-align: center;
+        color: violet;     
+}
+/*id selector*/
+#para1 {
+    text-align: center;
+    color: purple;
+  }
+/*grouping selector*/
+  h1,p {
+    text-align: center;
+    color: green;
+  }
+
+  .fname{
+    color: grey;
+    background-color: whitesmoke;
+}
+/*element*/
+body{
+    background-color: black;  
+}
+/*overflow*/
+div {
+  background-color: coral;
+  width: 200px;
+  height: 100px;
+  border: 1px solid black;
+  overflow: scroll;
+  text-align: center;
+  margin: auto;
+}
+/*max-width*/
+p.ex1 {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+/*z-index*/
+img {
+  position: static;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+/*inlne block*/
+nav {
+  background-color: yellow; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+/*margin,padding,heading*/
+div{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: center;
+}
+
+.error{
+  color: red;
+  font-size: 14px;
+  /*margin-left: 20px;
+  display: inline-block; 
+  min-width: 200px; /
+  visibility: visible;*/ 
+}
+
+

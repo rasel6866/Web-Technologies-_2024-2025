@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    color: #333;
+    padding: 20px;
+ 
+}
+ 
+.container {
+    margin-top: 100px;
+    max-width: 600px;
+    /* margin: 100px auto; */
+    color: black;
+    background-color:lightblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+img {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    object-fit: cover;
+  }

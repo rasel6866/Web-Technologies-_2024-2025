@@ -1,5 +1,5 @@
 
-<h1 align="center">🩸 Blood Bank Management System 🩸</h1> 
+<h1 align="center">🩸Blood Bank Management System 🩸</h1> 
 
 
 <p align="center">

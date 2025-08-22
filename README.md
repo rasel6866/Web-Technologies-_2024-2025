@@ -1,4 +1,4 @@
-
+i
 <h1 align="center">🩸Blood Bank Management System(রক্ত দিন জীবন বাঁচান)🩸</h1> 
 
 
@@ -14,7 +14,7 @@ The Blood Bank Management System is a web-based platform designed to streamline 
 </details>
 
 <details open> 
-<summary><h2 align="left"> 📜 Features</h2></summary>
+<summary><h2 align="left">📜 Features</h2></summary>
 
 ### For Donors:
 - **User Registration & Login**: Secure access for blood donors.
